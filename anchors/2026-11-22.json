@@ -1,0 +1,14 @@
+{
+  "anchor": {
+    "day": "2026-11-22",
+    "path": "anchors/2026-11-22.json"
+  },
+  "broken_count": 0,
+  "generated_at": "2026-11-22T19:30:43.519Z",
+  "manifest_hash": "1c19565b209a5979194271884281ce58259333d083aeafdbdf5c25743b2553be",
+  "schema_version": 1,
+  "session_count": 0,
+  "sessions": [],
+  "status": "empty",
+  "verified_count": 0
+}
